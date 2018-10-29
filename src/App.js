@@ -9,11 +9,14 @@ class App extends Component {
         <h1>Capital One's Mind Sumo Challenge</h1>
         <h2>By Isabella Berry</h2>
         <hr />
-        <h3>Solution to question #1</h3>
-        <h3>Solution to question #2</h3>
-        <h3>Solution to question #3</h3>
-        <h3>Solution to question #4</h3>
         <br />
+        <h3>Solution to question #1</h3>
+        <br />
+        <h3>Solution to question #2</h3>
+        <br />
+        <h3>Solution to question #3</h3>
+        <br />
+        <h3>Solution to question #4</h3>
       </Container>
     );
   }
